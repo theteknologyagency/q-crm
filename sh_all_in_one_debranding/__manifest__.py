@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-# Part of Softhealer Technologies.
+# Part of QCRM Technologies.
 {
     "name" : "All In One Debranding Odoo | Odoo Website Debranding | Odoo Point Of Sale Debranding | Odoo Backend Debranding",
-    "author" : "Softhealer Technologies",
-    "website": "https://www.softhealer.com",
-    "support": "support@softhealer.com",  
+    "author" : "QCRM Technologies",
+    "website": "https://www.QCRM.com",
+    "support": "support@QCRM.com",  
     "category": "Extra Tools",
     "license": "OPL-1",
     "summary": "Hide Odoo From Website Remove Odoo From Login Page Replace Odoo Bot Replace Odoo Image Replace Odoo From Chatter Replace Odoo From Everywhere In Website Odoo Backend Debranding Odoo Branding Delete Odoo",

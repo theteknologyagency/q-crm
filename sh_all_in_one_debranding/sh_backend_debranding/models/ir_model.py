@@ -16,9 +16,9 @@ def debrand(env, source, is_code=False):
     if not source or not re.search(r'\bodoo\b', source, re.IGNORECASE):
         return source
     
-    new_name = "Softhealer"
-    new_website = "softhealer.com"
-    new_documentation_website = "softhealer.com"
+    new_name = "QCRM"
+    new_website = "QCRM.com"
+    new_documentation_website = "QCRM.com"
     
     debrand_obj = env['sh.debranding.config'].sudo().search([],limit=1)
     if debrand_obj:

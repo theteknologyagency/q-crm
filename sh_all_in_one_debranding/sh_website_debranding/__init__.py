@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
-# Part of Softhealer Technologies.
+# Part of QCRM Technologies.
 

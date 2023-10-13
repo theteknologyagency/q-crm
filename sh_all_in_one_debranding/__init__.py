@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Softhealer Technologies.
+# Part of QCRM Technologies.
 
 from . import sh_backend_debranding
 from . import sh_base_debranding

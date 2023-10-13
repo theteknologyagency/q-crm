@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Part of Softhealer Technologies.
+# Part of QCRM Technologies.
 from odoo import fields, models
     
 
@@ -7,7 +7,7 @@ class DebrandingConfig(models.Model):
     _name = 'sh.debranding.config'
     _description = 'Debranding Configuration'
         
-    name = fields.Char("App Name",default="Softhealer")
+    name = fields.Char("App Name",default="QCRM")
     url = fields.Char("App URL")
     bot_user = fields.Char('Bot User') 
     bot_user_login = fields.Char("Bot User Login")

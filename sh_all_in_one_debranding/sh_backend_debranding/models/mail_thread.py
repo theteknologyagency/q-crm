@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright (C) Softhealer Technologies.
+# Copyright (C) QCRM Technologies.
 
 # from lxml import html as htmltree
 # from lxml import etree

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright (C) Softhealer Technologies.
+# Copyright (C) QCRM Technologies.
 
 from odoo import models
 from odoo.release import version_info
